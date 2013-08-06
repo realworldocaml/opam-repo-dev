@@ -1,0 +1,5 @@
+Real World OCaml build scripts
+
+These install the command-line utilities required to build the code examples
+for Real World OCaml, available online at https://realworldocaml.org and
+https://github.com/realworldocaml
